@@ -82,4 +82,21 @@ section#contact i {
 
 /** ------------------- UP-BUTTON --------------------- */
 
+.up-btn {
+  color: #dc3545;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+}
 /*! -------------------- 7- FOOTER ------------------------ */
+
+footer i {
+  font-size: 2rem;
+  color: white;
+  margin-right: 1rem;
+  transition: color 1s;
+}
+
+footer i:hover {
+  color: var(--red);
+}
