@@ -1,11 +1,3 @@
-# bootstrap-project
-This project was created using bootstrap in navbar, form, carousel, cards, nav and tabs elements. 
-Bootstrap's classes are used, too.
-
-Links... https://huseyin-aln.github.io/bootstrap-project/
-
-https://bt-pro.netlify.app/
-
 
 <h1 align="center">Bootstrap Project</h1>
 
@@ -14,6 +6,7 @@ https://bt-pro.netlify.app/
     <a href="https://huseyin-aln.github.io/bootstrap-project/">
       Bootstrap Project
     </a>
+    https://bt-pro.netlify.app/
   </h3>
 </div>
 
@@ -55,8 +48,8 @@ $ git clone https://github.com/huseyin-aln/bootstrap-project
 ```
 
 ## Acknowledgements
-- In this project, the Clarusway School Website was designed using HTML and Bootstrap-5 for styling. 
-- The purpose of this Bootstrap-5 project is to enable the use of Bootstrap-5 (class names) for styling and to take advantage of CSS Frameworks.  
+- In this project, the Website was designed using HTML and Bootstrap-5 for styling nd was created using bootstrap in navbar, form, carousel, cards, nav and tabs elements.  
+- The purpose of this Bootstrap-5 project is to enable the use of Bootstrap-5 classes for styling and to take advantage of CSS Frameworks.
 
 ## Contact
 
