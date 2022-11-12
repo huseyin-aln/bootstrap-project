@@ -50,7 +50,7 @@ $ git clone https://github.com/huseyin-aln/bootstrap-project
 ```
 
 ## Acknowledgements
-- In this project, the Website was designed using HTML and Bootstrap-5 for styling nd was created using bootstrap in navbar, form, carousel, cards, nav and tabs elements.  
+- In this project, the Website was designed using HTML and Bootstrap-5 for styling and was created using bootstrap in navbar, form, carousel, cards, nav and tabs elements.  
 - The purpose of this Bootstrap-5 project is to enable the use of Bootstrap-5 classes for styling and to take advantage of CSS Frameworks.
 
 ## Contact
